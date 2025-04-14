@@ -1,6 +1,6 @@
-### Hi there, I'm Paraskumar Sanghvi! 👋
+![Yellow Modern Freelance Copywriter LinkedIn Banner](https://github.com/Shaik-Subhan-Vali/Shaik-Subhan-Vali/assets/170219220/5278afa8-1769-4f8e-afb7-4727fad9ca91)
 
-<img src="https://www.trigent.in/services/images/qa-banner2.jpg">
+### Hi there, I'm Paraskumar Sanghvi! 👋
 
 [![Github](https://badgen.net/badge/jnovack/catchall/purple?icon=github)](https://github.com/jnovack/php-dynamic-image)
 #### 🚀 About Me
