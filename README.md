@@ -1,5 +1,8 @@
 ### Hi there, I'm Paraskumar Sanghvi! 👋
 
+<img src="https://www.trigent.in/services/images/qa-banner2.jpg">
+
+[![Github](https://badgen.net/badge/jnovack/catchall/purple?icon=github)](https://github.com/jnovack/php-dynamic-image)
 #### 🚀 About Me
 - 🔭 I’m a **Full-Stack Web Developer** and **Software Testing Engineer**
 - 🌱 Currently learning **Selenium and Cucumber**
