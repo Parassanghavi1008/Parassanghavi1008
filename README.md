@@ -1,6 +1,14 @@
 ![Yellow Modern Freelance Copywriter LinkedIn Banner](https://github.com/Shaik-Subhan-Vali/Shaik-Subhan-Vali/assets/170219220/5278afa8-1769-4f8e-afb7-4727fad9ca91)
 
-### Hi Folks! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" /> I'm Paraskumar Sanghvi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" />
+
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" /> Hi Folks! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" /></h3>
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" />
+     I'm Paraskumar Sanghvi!
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" />
+</h2>
 
 
 [![Github](https://badgen.net/badge/jnovack/catchall/purple?icon=github)](https://github.com/jnovack/php-dynamic-image)
