@@ -13,7 +13,7 @@
 
 [![Github](https://badgen.net/badge/jnovack/catchall/purple?icon=github)](https://github.com/jnovack/php-dynamic-image)
 #### 🚀 About Me
-- 🔭 I’m a **Full-Stack Web Developer** and **Software Development Engineer in Testing **
+- 🔭 I’m a **Software Development Engineer in Test**
 - 🌱 Currently learning **Selenium and Cucumber**
 - 💻 Skilled in **HTML, CSS, JavaScript, Java, SQL, Cypress, Bootstrap, Django, Postman**
 - 📌 Passionate about **Software Engineering in Test**
